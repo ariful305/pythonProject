@@ -18,17 +18,6 @@ This repository demonstrates how to create a custom WordCloud using Python. The 
 
 ---
 
-## Output
-
-Below is an example of the generated WordCloud:
-
-### WordCloud Output:
-![WordCloud Output](output_wordcloud.png)
-
-### Mask Image:
-The WordCloud is shaped based on the following mask image:
-![Mask Image](Arif.png)
-
 ## Installation
 
 Step 1 : 
@@ -52,4 +41,13 @@ Step 3 :
 
 Run the code
 
+
+
+
+## Output
+
+Below is an example of the generated WordCloud:
+
+### WordCloud Output:
+![WordCloud Output](output_wordcloud.png)
 
